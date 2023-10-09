@@ -1,1 +1,8 @@
-First File
+//First File
+#include <stdio.h>
+
+void main()
+{
+printf("Hello There");
+
+}
